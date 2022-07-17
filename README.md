@@ -1,3 +1,10 @@
+## Demon
+Mohon Maaf saya Tidak Menghosting web ini dikarnakan Tidak memiliki hosting.
+saya sudah perah mmencoba di hosting di web yang lain silahkan klik ini: https://sisteminformasi.unimal.ac.id/
+
+https://drive.google.com/file/d/1FUBsEDXJRBEHMLNhhm5wX-JdSgE4rxSy/view?usp=sharing
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
